@@ -1,0 +1,24 @@
+/run/
+/run_*/
+/runs/
+
+/data/OCTDL*
+
+
+pruebas.ipynb
+
+# Salidas de Hydra
+/outputs/
+/multirun/
+/Pruebas/
+
+# Pesos y predicciones
+*.pt
+preds_*.npy
+
+__pycache__
+/data/__pycache__
+/modules/__pycache__
+/utils/__pycache__
+
+logs_*
